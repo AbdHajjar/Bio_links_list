@@ -40,8 +40,7 @@ const addCardComponent = (
   section,
   index
 ) => {
-  const isExpired = getExpiration(published_date);
-  const cardElement = isExpired
+  const cardElement = false
     ? ''
     : `
         <div class="card">
