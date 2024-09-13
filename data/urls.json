@@ -1,0 +1,36 @@
+{
+  "featured": {
+    "title": "Featured",
+    "urls": [
+      {
+        "title": "Github | Profile",
+        "url": "https://github.com/AbdHajjar",
+        "body": "",
+        "tag": ["RESOURCES", "FREE"]
+      }
+    ]
+  },
+
+  "resources": {
+    "title": "Resources",
+    "urls": [
+      {
+        "title": "GitHub | Bio Links Website",
+        "url": "https://github.com/AbdHajjar/Bio_Links_Utils",
+        "body": "This Website",
+        "tag": ["GIST", "RESOURCES"]
+      }
+    ]
+  },
+  "support": {
+    "title": "Support",
+    "urls": [
+      {
+        "title": "Contact",
+        "url": "mailto:{use.your.mind@hotmail.com}?subject={Support / Contact}",
+        "body": "Thank you for your support!",
+        "tag": ["SUPPORT", "Contact"]
+      }
+    ]
+  }
+}
